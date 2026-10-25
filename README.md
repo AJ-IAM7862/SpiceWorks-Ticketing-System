@@ -9,8 +9,7 @@ tickets from our lab environment to simulate platforms like ServiceNow or Jira.<
 - Windows 11
 <h2>Created Tickets in SpiceWorks - Worked - Closed</h2>
 <p>
-<img width="1202" height="516" alt="image"
-src="https://github.com/user-attachments/assets/879b705e-75de-45ee-a60e-09995ce9f5b8" />
+<img width="949" height="474" alt="Closed tickets" src="https://github.com/user-attachments/assets/7d941d35-d04f-4eff-8a4a-9a93c4f408ce" />
 </p>
 <p>
 Created tickets for Slow Computer, Microsoft Issue, Print Queue, Network Troubleshooting,
@@ -18,8 +17,7 @@ Account Provisioning, Security Group Access.
 </p>
 <br />
 <p>
-<img width="1140" height="232" alt="image"
-src="https://github.com/user-attachments/assets/3729907f-f5d2-4ca9-ad2c-353c95beb72d" />
+<img width="947" height="469" alt="Open Tickets" src="https://github.com/user-attachments/assets/f54fa215-19da-4804-b157-6aebf217066b" />
 </p>
 <p>
 Went through ticketing SLA's, updated and/or escalated each ticket, closed them out as in a IT
